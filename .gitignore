@@ -1,0 +1,21 @@
+# Android/Gradle
+.gradle/
+**/build/
+local.properties
+.cxx/
+captures/
+
+# IDE
+.idea/
+*.iml
+
+# Keystores & signing
+*.jks
+*.keystore
+**/keystore/**
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
