@@ -19,3 +19,18 @@ captures/
 
 # macOS
 .DS_Store
+# Secrets / keys
+enter
+clear
+*.pem
+*.key
+id_*        # (repo files only; this won't touch ~/.ssh)
+# Android / build
+.gradle/
+.idea/
+local.properties
+*.keystore
+*.jks
+**/build/
+captures/
+*.iml
